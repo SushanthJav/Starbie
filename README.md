@@ -30,3 +30,11 @@ The PCB design, renders, and an Arduino starter firmware are included here. The 
 - `Renders/` - front and back PCB renders
 - `Week 1 Guide.md` - project guide material
 - `Firmware/` - Arduino IDE starter sketch
+
+
+
+Images of Project: <img width="1476" height="1124" alt="image" src="https://github.com/user-attachments/assets/d0037cd5-9db8-4258-bcee-b6d2ce0b2818" />
+
+<img width="596" height="1094" alt="image" src="https://github.com/user-attachments/assets/23dac5ba-08be-494d-bbef-22198d7778fd" />
+
+
