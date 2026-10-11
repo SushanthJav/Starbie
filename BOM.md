@@ -21,7 +21,7 @@
 | [10k resistor](https://www.amazon.com/dp/B0B4JFPHTW) | Resists flow of electricity | 1 | $0.05 | $0.05 | [California JOS](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.pcbway.com/QuickOrderOnline.aspx) | Custom built printed board that does a custom function | 1 | $13.05 | $13.05 | [PCBWAY](https://www.pcbway.com/QuickOrderOnline.aspx) |
 | **Parts subtotal** | — | — | — | **$28.28** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$28.28** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$33.28** | — |
 
-$1.72 left of the tier's funding.
+**$3.28 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
