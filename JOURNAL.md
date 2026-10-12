@@ -114,7 +114,7 @@ Before I started the recording, I spent about 20 minutes deciding what bitmap I 
 
 **3h**
 
-I worked on finding the parts for the project and this took me a while because I had to find the cheapest options on the internet, like Aliexpress, and I found some relatively cheap ones on Amazon. I went back and forth between Amazon and Aliexpress til I found the cheapest ones I could find and despite that the entire cost was $43.63.  So I will be paying for the parts that are not covered by the fund which is $10.63 from my pocket.
+I worked on finding the parts for the project and this took me a while because I had to find the cheapest options on the internet, like Aliexpress, and I found some relatively cheap ones on Amazon. I went between JLCPCB and PCBway to find the cheapest PCB price and it originally said PCBway was cheaper by 10 dollars but when I went into the checkout process, the actual price was 44 dollars so I went back to check JLCPCB and the price for that was $19.10. I also went back and forth between Amazon and Aliexpress til I found the cheapest ones I could find and despite that the entire cost was $43.63.  So I will be paying for the parts that are not covered by the fund which is $10.63 from my pocket.
 
 ![JLCPCB Checkout](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aognY8UOVQB9hZBPwkQkR9oFPOAPqNn0/9b2f8b63fc1309efb10219b82bbe301d69ad9b10f950220dc3044f0f6edd3c22.png)
 
