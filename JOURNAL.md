@@ -22,7 +22,7 @@
 6. [2026-10-10 – I worked on changing up my pcb because I didnt like how it looked weird as a asymetrical star so I searched up how to make a good looking star on the pcb editor and I realized if I had a reference ima](#2026-10-10-i-worked-on-changing-up-my-pcb-because-i-didnt-li)
 7. [2026-10-10 – I just started working on the arduino ide but when I went to do the task of uploading that url to the file preferences it  didnt work so I asked gemini what happened and why there was an error and how](#2026-10-10-i-just-started-working-on-the-arduino-ide-but-whe)
 8. [2026-10-11 – Before I started the recording, I spent about 20 minutes deciding what bitmap I was going to draw, I originaly was going to do a star or a horse or a square with a face, but I remembered verity so I d](#2026-10-11-before-i-started-the-recording-i-spent-about-20-m)
-9. [2026-10-11 – I worked on finding the parts for the project and this took me a while because I had to find the cheapest options on the internet, like Aliexpress, and I found some relatively cheap ones on Amazon. I](#2026-10-11-i-worked-on-finding-the-parts-for-the-project-and)
+9. [2026-10-11 – I worked on finding the parts for the project and this took me a while because the guide had the parts listed for cheap but the actual parts on amazon were more expensive so I had to look everywhere t](#2026-10-11-i-worked-on-finding-the-parts-for-the-project-and)
 
 ## Design
 
@@ -110,11 +110,11 @@ Before I started the recording, I spent about 20 minutes deciding what bitmap I 
 
 [Timelapse](https://lookout.hackclub.com/api/media/d49554c6-1866-4460-a58a-00abd2e06269/video.mp4)
 
-### 2026-10-11 – I worked on finding the parts for the project and this took me a while because I had to find the cheapest options on the internet, like Aliexpress, and I found some relatively cheap ones on Amazon. I
+### 2026-10-11 – I worked on finding the parts for the project and this took me a while because the guide had the parts listed for cheap but the actual parts on amazon were more expensive so I had to look everywhere t
 
 **3h**
 
-I worked on finding the parts for the project and this took me a while because I had to find the cheapest options on the internet, like Aliexpress, and I found some relatively cheap ones on Amazon. I went between JLCPCB and PCBway to find the cheapest PCB price and it originally said PCBway was cheaper by 10 dollars but when I went into the checkout process, the actual price was 44 dollars so I went back to check JLCPCB and the price for that was $19.10. I also went back and forth between Amazon and Aliexpress til I found the cheapest ones I could find and despite that the entire cost was $43.63.  So I will be paying for the parts that are not covered by the fund which is $10.63 from my pocket.
+I worked on finding the parts for the project and this took me a while because the guide had the parts listed for cheap but the actual parts on amazon were more expensive so I had to look everywhere to find the cheapest options on the internet, like Aliexpress, and I found some relatively cheap ones on Amazon compared to walmart and alibaba. I went between JLCPCB and PCBway to find the cheapest PCB price and it originally said PCBway was cheaper by 10 dollars but when I went into the checkout process, the actual price was 44 dollars so I went back to check JLCPCB and the price for that was $19.10. I also went back and forth between Amazon and Aliexpress til I found the cheapest ones I could find and despite that the entire cost was $43.63.  So I will be paying for the parts that are not covered by the fund which is $10.63 from my pocket.
 
 ![JLCPCB Checkout](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aognY8UOVQB9hZBPwkQkR9oFPOAPqNn0/9b2f8b63fc1309efb10219b82bbe301d69ad9b10f950220dc3044f0f6edd3c22.png)
 
