@@ -21,7 +21,7 @@
 | [10k resistor](https://www.aliexpress.us/item/3256804551444731.html?spm=a2g0o.cart.0.0.256b38daFTxTqu&mp=1&pdp_npi=6%40dis%21USD%21USD+1.51%21USD+1.51%21%21USD+1.51%21%21%21%402103128817917675940686911e1157%2112000030299036409%21ct%21US%218282374659%21%211%210%21&gatewayAdapt=glo2usa) | Resists flow of electricity | 1 | $1.51 | $1.51 | [YXPC Store](https://www.aliexpress.us/item/3256804551444731.html?spm=a2g0o.cart.0.0.256b38daFTxTqu&mp=1&pdp_npi=6%40dis%21USD%21USD+1.51%21USD+1.51%21%21USD+1.51%21%21%21%402103128817917675940686911e1157%2112000030299036409%21ct%21US%218282374659%21%211%210%21&gatewayAdapt=glo2usa) |
 | [PCB](https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026101208472567&spm=Jlcpcb.Confirmorder.1001) | Custom built printed board that does a custom function | 1 | $12.90 | $12.90 | [JLCPCB](https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026101208472567&spm=Jlcpcb.Confirmorder.1001) |
 | **Parts subtotal** | — | — | — | **$30.38** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$30.38** | — |
+| **Tax & shipping** | — | — | — | **$1.67** | — |
+| **Total** | — | — | — | **$32.05** | — |
 
-**$0.38 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$2.05 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
