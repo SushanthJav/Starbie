@@ -114,11 +114,11 @@ Before I started the recording, I spent about 20 minutes deciding what bitmap I 
 
 **3h**
 
-I worked on finding the parts for the project BOM correctly because and this took me a while because I had to find the cheapest options on the internet, like Aliexpress, and I found some relatively cheap ones on Amazon. I went between JLCPCB and PCBway to find the cheapest PCB price and it originally said PCBway was cheaper by 10 dollars but when I went into the checkout process, the actual price was 44 dollars so I went back to check JLCPCB and the price for that was $19.10. I also went back and forth between Amazon and Aliexpress til I found the cheapest ones I could find and despite that the entire cost was $43.63.  So I will be paying for the parts that are not covered by the fund which is $10.63 from my pocket.
+I worked on finding the parts for the project BOM correctly because and this took me a while because I had to find the cheapest options on the internet, like Aliexpress, and I found some relatively cheap ones on Amazon. I went between JLCPCB and PCBway to find the cheapest PCB price and it originally said PCBway was cheaper by 10 dollars but when I went into the checkout process, the actual price was 44 dollars so I went back to check JLCPCB and the price for that was $19.10. I also went back and forth between Amazon and Aliexpress til I found the cheapest ones I could find and despite that the entire cost was $42.05.  So I will be paying for the parts that are not covered by the fund which is $10.05 from my pocket.
 
 ![JLCPCB Checkout](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aognY8UOVQB9hZBPwkQkR9oFPOAPqNn0/9b2f8b63fc1309efb10219b82bbe301d69ad9b10f950220dc3044f0f6edd3c22.png)
 
-![AliExpress Checkout](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aognY8UOVQB9hZBPwkQkR9oFPOAPqNn0/57145afecdcc84e4f9c247c03f205cc1e71c52771782c4f9d88d2e5357761107.png)
+![AliExpress Checkout](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aognY8UOVQB9hZBPwkQkR9oFPOAPqNn0/8d1fdc68d60e802000bb4a13b250f49b848a6a3e8c9c3404f68cea6754da5aa2.png)
 
 ![Amazon Checkout](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aognY8UOVQB9hZBPwkQkR9oFPOAPqNn0/ce007cc60ec6a7495cfcfbb10d96a10f793fbfedf2d885f5e5ce46437a660f12.png)
 
