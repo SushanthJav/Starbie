@@ -22,7 +22,7 @@
 | [PCB](https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026101208472567&spm=Jlcpcb.Confirmorder.1001) | Custom built printed board that does a custom function | 1 | $12.90 | $12.90 | [JLCPCB](https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026101208472567&spm=Jlcpcb.Confirmorder.1001) |
 | [What Sushanth going to pay](https://www.com) | Im going to pay 12.05 from my pocket | 1 | $0.01 | $0.01 | [Sushanth](https://www.com) |
 | **Parts subtotal** | — | — | — | **$30.39** | — |
-| **Tax & shipping** | — | — | — | **$11.67** | — |
-| **Total** | — | — | — | **$42.06** | — |
+| **Tax & shipping** | — | — | — | **$1.67** | — |
+| **Total** | — | — | — | **$32.06** | — |
 
-**$12.06 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$2.06 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
