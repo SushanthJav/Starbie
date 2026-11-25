@@ -1,4 +1,4 @@
-Starbie is a small touch responsive digital pet similar to a tamagotchi which can be manipulated using the board - you do not utilise the buttons on it.
+Starbie is a small touch responsive digital pet similar to a tamagotchi which can be manipulated using the board
 
 
 
